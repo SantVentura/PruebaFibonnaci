@@ -75,6 +75,10 @@ button{
     height: 40px;
     font-family: 'Days One', sans-serif;
 }
+button:hover{
+    background-color: rgba(0,0,0,0.5);
+    transition: all 1s;
+}
 .textf{
     font-size: 28px;
 }
